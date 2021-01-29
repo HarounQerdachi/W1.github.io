@@ -1,0 +1,135 @@
+body{
+    background-color:  hsl(185, 75%, 39%);
+}
+.d1
+{
+   position: relative;
+    margin-left: -50px;
+    margin-top: 150px;
+    display: grid;
+    grid-template-rows: 150px 200px;
+    justify-content: center;
+
+}
+.d2
+{
+    width: 357px;
+    background-image: url('img/bg-pattern-card.svg');
+    border-top-left-radius: 20px;
+
+    border-top-right-radius: 20px;
+  
+}
+.d3
+{
+    width: 357px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 250px;
+    
+}
+.d4{
+    position: relative;
+    top: -250px;
+    right: -125px;
+    border-radius: 50px;
+    border : 3px;
+    border-style: solid;
+    border-color: white;
+}
+.d5 {
+    position: relative;
+    top: -44px;
+    right: 0px;
+  border-top: 0.5px solid #97979754;
+  
+    
+    
+    
+}
+.mb {display: flex;
+flex-direction: row;
+justify-content: center;}
+
+.IMG1{
+    position: absolute;
+    top: -511px;
+    right:718px;
+}
+.IMG2{
+    position: absolute;
+    bottom: -674px;
+    right:-255px;
+}
+.G{
+   
+    top: -230px;
+    right:-119px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Kumbh Sans', sans-serif;
+
+
+}
+.nom{
+    position: relative;
+    top: -252px;
+    right:-115px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Kumbh Sans', sans-serif;
+
+}
+.G,.sicial1,.sicial2,.sicial3{
+    
+    color:  hsl(0, 0%, 59%);
+    font-size: 1rem;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.City{
+font-size: 12px;
+    font-weight: normal;
+    font-family: 'Kumbh Sans', sans-serif;
+    position: relative;
+    top: -206px;
+    right:-26px;
+    font-size: 1.1rem;
+    color:  hsl(0, 0%, 59%);
+    font-weight: 400;
+}
+.num1{
+    position: relative;
+     top: -124px;
+    right:139px;
+}
+.sicial1{
+    position: relative;
+    top: -86px;
+   right:183px;
+}
+.num2{
+    position: relative;
+    top: -126px;
+   right:107px;
+}
+.sicial2{
+    position: relative;
+    top: -87px;
+   right:142px;
+}
+.num3{
+    position: relative;
+    top: -126px;
+   right:49px;
+}
+.sicial3{
+    position: relative;
+    top: -84px;
+   right:85px;
+}
+.num1,.num2,.num3{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+
